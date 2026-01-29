@@ -1,0 +1,8 @@
+# Requirements for the explainable stock screener
+numpy
+pandas
+yfinance
+lightgbm
+scikit-learn
+streamlit
+matplotlib
